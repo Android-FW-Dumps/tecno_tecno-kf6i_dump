@@ -1,0 +1,14 @@
+# sys_tssi_64_tecno-user 11 RP1A.200720.011 112652 release-keys
+- manufacturer: 
+- platform: mt6765
+- codename: TECNO-KF6i
+- flavor: sys_tssi_64_tecno-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 210528V156
+- tags: release-keys
+- fingerprint: TECNO/KF6i-OP/TECNO-KF6i:11/RP1A.200720.011/210528V128:user/release-keys
+- is_ab: true
+- brand: TECNO
+- branch: sys_tssi_64_tecno-user-11-RP1A.200720.011-112652-release-keys
+- repo: tecno_tecno-kf6i_dump
